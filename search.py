@@ -1,6 +1,6 @@
 def Search():
     arr = (10,15,20,25,30,35,40)
-    key = 25
+    key = 50
     beg = 0
     end = len(arr)-1
 
